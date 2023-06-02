@@ -1,40 +1,41 @@
 # Single Page Applications with Vue
-01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+1.  What is the entrypoint of an application?
 
-02. What is the difference between a vue `component` and `page`?
+> | it is an access point for users. or entry point is where we can controll user's access|
 
-  > | ANSWER HERE |
+2.  What is the difference between a vue `component` and `page`?
 
-03. What is ***Component-Based Architecture***?
+> | in component we deal with data that are reusable and can be used in multiple different file for our application. However, in page we have those data that are working for that specific page. |
 
-  > | ANSWER HERE |
+3.  What is **_Component-Based Architecture_**?
 
-04. What are the three tags that make up a Vue component?
+> | a methode of encapsulating larger user interface in to a different smaller that are independent. |
 
-  > | ANSWER HERE |
+4.  What are the three tags that make up a Vue component?
 
-05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
+> | template, script and style |
 
-  > | ANSWER HERE |
+5.  What are **_lifecycle hooks_**? What are lifecycle hooks used for?
 
-06. Which component in Vue does the vue-router use to mount pages onto?
+> | a window that allows us to know details of creating and updating our application. or it enables to see the changes we make in our applicaiton |
 
-  > | ANSWER HERE |
+6.  Which component in Vue does the vue-router use to mount pages onto?
 
-07. What is the difference between the `AppState` and the state object within a component?
+> | <router-view> |
 
-  > | ANSWER HERE |
+7.  What is the difference between the `AppState` and the state object within a component?
 
-08. What is the responsibility of `Services` in our Vue projects?
+> | Appstate is where we store or declare something that we may use globaly in otherhand state is not global and it is data is only used inside of that file only. |
 
-  > | ANSWER HERE |
+8.  What is the responsibility of `Services` in our Vue projects?
 
-09. What are ***props*** and how are they used? Provide an example
+> | Service are responsible to make requests to the server and deal with data. and operations and data transformation happens in service too. |
 
-  > | ANSWER HERE |
+9.  What are **_props_** and how are they used? Provide an example
+
+> | props are the way we pass information between different component. for example using props enables us to pass information that is related to blog to profile component and blog component. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+> | Vue.observable() |
