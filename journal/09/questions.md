@@ -1,40 +1,41 @@
 # Working in a Professional Environment
-01. What is Inheritance?
 
-> | ANSWER HERE |
+1.  What is Inheritance?
 
-02. What is the `Singleton` design pattern?
+> | Inheritance is a used to make a realtionship between child and parent. or it it is used to make codes reusable. |
 
-> | ANSWER HERE |
+2.  What is the `Singleton` design pattern?
 
-03. What is the `Observer` design pattern?
+> |Singleton design pattern is a pattern that prevents from having multiple instance of a class. or it allows us to have only one instance of a class does not allow to have multiple intance of a class that may causes problems |
 
-> | ANSWER HERE |
+3.  What is the `Observer` design pattern?
 
-04. What is the `Strategy` design pattern?
+> | a pattern that notifies othere objects if an event is happening or has already happened |
 
-> | ANSWER HERE |
+4.  What is the `Strategy` design pattern?
 
-05. What is the `Factory` design pattern?
+> |it is a pattern of creating algoritm family and and define or put them in to a separate classes |
 
-> | ANSWER HERE |
+5.  What is the `Factory` design pattern?
 
-06. What is test driven development?
+> | it is basically the creation of object without asking user which class to use.🤔 |
 
-> | ANSWER HERE |
+6.  What is test driven development?
 
-07. In Scrum/Agile what is the DoD?
+> | it means writing test befor writing actual code. |
 
-> | ANSWER HERE |
+7.  In Scrum/Agile what is the DoD?
 
-08. Give two examples of a user story:
+> | definition of done. it means that before releasing the work make sure that all creteria is working the way it is intended. the functionality, Technical requirements and all are wroking the way it is intended. |
 
-> | ANSWER HERE |
+8.  Give two examples of a user story:
 
-09. During which ceremony is your Sprint Backlog created?
+> | registration and searching |
 
-> | ANSWER HERE |
+9.  During which ceremony is your Sprint Backlog created?
+
+> | at the begining of each cermoney the Sprint Backlog happense. it basically means to make specific period of time for each activity |
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> | in Agil cermonies like Daily standup or planning the tasks of the day memebers will be given specific responsibilites.|
